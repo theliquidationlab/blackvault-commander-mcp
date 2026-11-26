@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "blackvault-commander": {
+      "url": "https://commander.liquiditylabsstudio.com/mcp"
+    }
+  }
+}
