@@ -9,6 +9,8 @@ Official client integration documentation for the hosted BlackVault Commander se
 4. Start with 'List my authorized devices' or 'Check device status'.
 
 ## Kiro and LM Studio
+
+[![Add to Kiro](https://kiro.dev/images/add-to-kiro.svg)](https://kiro.dev/launch/mcp/add?name=blackvault-commander&config=%7B%22url%22%3A%22https%3A%2F%2Fcommander.liquiditylabsstudio.com%2Fmcp%22%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D)
 Use the remote configuration example in kiro-mcp.json for Kiro. LM Studio users can use the official one-click installer link below, or add the example in lmstudio-mcp.json.
 
 [Add to LM Studio](https://lmstudio.ai/install-mcp?config=eyJ1cmwiOiJodHRwczovL2NvbW1hbmRlci5saXF1aWRpdHlsYWJzc3R1ZGlvLmNvbS9tY3AifQ%3D%3D&name=blackvault-commander)
