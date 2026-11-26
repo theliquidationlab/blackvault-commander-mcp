@@ -1,0 +1,10 @@
+{
+  "name": "blackvault-commander",
+  "version": "0.3.0",
+  "description": "Manage your authorized computers through BlackVault Commander.",
+  "mcpServers": {
+    "blackvault": {
+      "httpUrl": "https://commander.liquiditylabsstudio.com/mcp"
+    }
+  }
+}
